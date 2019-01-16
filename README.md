@@ -14,3 +14,13 @@ if(a<b)
   //do something
 }
 ```
+### Question 8)
+In this multiple choice question, the second answer was correct as it is the simplest way to achieve the goal of assigning a letter grade to a student. The code I chose did extensive tests in order to verify if the grade should be an A,B,C ... However, the correct code achieves the same task, however, it does it in a way more efficient manner, as if one if statement is not met, the function will move onto the next else if.
+
+### Question 9)
+Along with the one correct answer I chose, the otehr two available choices for this question were also correct. This is because the two other ternary operators still effectively replace the if-else statement. The ternary operator does not have to all be on one line, and can be found on seperate lines, making the other two choices correct.
+
+### Question 15)
+Along with the correct answer I chose, the other multiple select answer was also correct as the do...while loop will still terminate, even if the do loop is performing x++.
+
+## Quiz 6)
