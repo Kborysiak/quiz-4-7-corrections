@@ -26,5 +26,12 @@ Along with the correct answer I chose, the other multiple select answer was also
 ## Quiz 6)
 ### Question 1)
 Along with the one correct multiple select question I answered, the two other options alert and console.log() also accept built in parameters. My choice Math.Random was not correct, as Math.Random does not accept parameters, and it chooses a random number from the given parameter.
+
 ### Question 5)
-For this question
+For this question, I chose that the proper parameters were x,y. These two parameters are really vague, and would not do a good job and allowing the function to perform its implementation. The correct parameters base, and exponent make sense in this case as they give a hint to as what the function is doing.
+
+### Question 6)
+Along with the two correct multiple select choices, the third option is also a viable choice to perform multiplication. This is because, even though the two other correct choices are simpler the third choice also reaches the same goal, it just is more extensive and indepth.
+
+### Question 7)
+For Question 7, I chose the wrong answer. The answer I chose was wrong as the answer is the same answer as the premodified code. This code also does not accept parameters that are inputted from an outside source. 
