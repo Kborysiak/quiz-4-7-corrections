@@ -24,3 +24,7 @@ Along with the one correct answer I chose, the otehr two available choices for t
 Along with the correct answer I chose, the other multiple select answer was also correct as the do...while loop will still terminate, even if the do loop is performing x++.
 
 ## Quiz 6)
+### Question 1)
+Along with the one correct multiple select question I answered, the two other options alert and console.log() also accept built in parameters. My choice Math.Random was not correct, as Math.Random does not accept parameters, and it chooses a random number from the given parameter.
+### Question 5)
+For this question
