@@ -35,3 +35,23 @@ Along with the two correct multiple select choices, the third option is also a v
 
 ### Question 7)
 For Question 7, I chose the wrong answer. The answer I chose was wrong as the answer is the same answer as the premodified code. This code also does not accept parameters that are inputted from an outside source. 
+
+### Question 12) 
+For Question 12, I chose that 4 would be printed to the console. However, this is wrong, as either 4 or undefined can be printed to the console. This is because, if a does not equal 1, and or b does not equal 2, and or c does not equal 3, variable d will be undefined, meaning that the console.log would show undefined.
+
+## Quiz 7)
+### Question 1)
+For Question 1, I put True, however, this is not correct as if one was to input all the aforementioned digits in the question, the correct response from the code would be False. This is because there is 4444 in the numbers array, meaning that it is not a three Digit number, making the output False.
+
+### Question 14)
+For Question 14, I answered that in order for the code to tell the user if the car exists in the array, the if statement should include 
+```
+cars[i]===car
+```
+However, this is not correct as there is no iteration over the variable I, and I isn't even defined as a variable. The correct answers: 
+```
+cars.includes(car)
+cars.lastIndexOf(car) !== -1
+cars.indexOf(car) !== -1
+```
+are all correct as they will let the user know if their input is in the cars array.
